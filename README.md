@@ -1,5 +1,10 @@
 # Simple_Encryption
+  Chunk(S)
+  
 Splits a sentence into syllables. 
+
+
+  key = genKey(len(chunk(S)))
 
 Generates random key based on number of possible permutations of syllables. 
 
